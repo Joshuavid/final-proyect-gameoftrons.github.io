@@ -81,7 +81,7 @@ function Planets ()
   return (
     <>
       <div>
-        Y esta tambien?
+        Y esta tambien?wwwwwwwwwwwwwwwwwwwwwwwwwwww
       </div>
     </>
   );

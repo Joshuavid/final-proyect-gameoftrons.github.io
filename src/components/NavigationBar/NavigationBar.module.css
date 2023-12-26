@@ -19,10 +19,10 @@
 
 .navigation__item:hover
 {
-  color: #6cd265;
+  color: #ddfc15;
 }
 
 .navigation__item--active
 {
-  border: 2px solid #ffffff;
+  border: 2px solid  #e28989;
 }

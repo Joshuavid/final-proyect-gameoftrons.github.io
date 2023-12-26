@@ -32,7 +32,7 @@ function Spacecraft ()
 
   return (
     <div className={styles["spacecraft"]}>
-     ya?
+     ya?qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
     </div>
   );
 }
